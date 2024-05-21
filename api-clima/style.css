@@ -1,0 +1,13 @@
+body{
+    background-color: lightgreen;
+}
+
+.container{
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.container button {
+    display: block; 
+    margin: 0 auto; 
+  }
